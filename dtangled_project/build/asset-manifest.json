@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dtangled_project/static/css/main.2072ea13.chunk.css",
+    "main.js": "/dtangled_project/static/js/main.b892232b.chunk.js",
+    "main.js.map": "/dtangled_project/static/js/main.b892232b.chunk.js.map",
+    "runtime-main.js": "/dtangled_project/static/js/runtime-main.5be174d9.js",
+    "runtime-main.js.map": "/dtangled_project/static/js/runtime-main.5be174d9.js.map",
+    "static/css/2.e428341d.chunk.css": "/dtangled_project/static/css/2.e428341d.chunk.css",
+    "static/js/2.c2f52dc3.chunk.js": "/dtangled_project/static/js/2.c2f52dc3.chunk.js",
+    "static/js/2.c2f52dc3.chunk.js.map": "/dtangled_project/static/js/2.c2f52dc3.chunk.js.map",
+    "index.html": "/dtangled_project/index.html",
+    "precache-manifest.1cc7935d5de9a9aa38500706397e1fa0.js": "/dtangled_project/precache-manifest.1cc7935d5de9a9aa38500706397e1fa0.js",
+    "service-worker.js": "/dtangled_project/service-worker.js",
+    "static/css/2.e428341d.chunk.css.map": "/dtangled_project/static/css/2.e428341d.chunk.css.map",
+    "static/css/main.2072ea13.chunk.css.map": "/dtangled_project/static/css/main.2072ea13.chunk.css.map",
+    "static/js/2.c2f52dc3.chunk.js.LICENSE.txt": "/dtangled_project/static/js/2.c2f52dc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be174d9.js",
+    "static/css/2.e428341d.chunk.css",
+    "static/js/2.c2f52dc3.chunk.js",
+    "static/css/main.2072ea13.chunk.css",
+    "static/js/main.b892232b.chunk.js"
+  ]
+}
